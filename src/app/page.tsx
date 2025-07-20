@@ -1,5 +1,5 @@
 import { Providers } from './providers';
-import { Home } from '@pages/Home';
+import { Home } from '@/components/Home';
 
 export default function App() {
   return (

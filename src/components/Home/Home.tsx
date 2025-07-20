@@ -1,5 +1,5 @@
 import React from 'react';
-import { Account } from '@pages/Account';
+import { Account } from '@/components/Account';
 import { Wallet } from '@/features';
 
 export const Home = () => {
